@@ -1,4 +1,4 @@
-## cPanel/WHM API for PHP library
+## cPanel/API for PHP library
 
 Gianck Luiz 
 GoodBits Tech Panamá
