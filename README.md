@@ -8,7 +8,7 @@
 - [Installation Guide](#installation-guide)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Feedback & Contribution](#feedback-&-contribution)
+
 
 ### Installation Guide
 
@@ -667,6 +667,6 @@ Somehow, you want to override your current configuration. To do this, here is th
 After you define some of your configuration, you can get it again by calling this functions
 
 
-#### Feedback and contribution
+
 
 
