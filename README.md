@@ -1,7 +1,7 @@
 ## cPanel/API for PHP library
 
-Gianck Luiz 
-GoodBits Tech Panamá
+
+
 
 
 ## Contents
